@@ -47,5 +47,4 @@ as a JSON Object.
 
 ## Step Function Output
 ![Step Function Output](images/stepfn%20output.png,"Step Function Output")
-## License
-[License](LICENSE.txt)
+
