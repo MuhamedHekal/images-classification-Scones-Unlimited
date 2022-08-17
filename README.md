@@ -8,7 +8,7 @@ This project is a part of the Assessment in the Udacity's AWS Machine Learning E
 
 ## Getting Started
 
-* Proceed with the project within the [jupyter notebook](image classification Scones Unlimited.ipynb).
+* Proceed with the project within the [jupyter notebook](image%20classification%20Scones%20Unlimited.ipynb).
 
 ### Dependencies
 
