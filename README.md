@@ -46,6 +46,6 @@ as a JSON Object.
 ![Step Functions Graph](images/stepfunctions_graph.png "Step Functions") ![Step Functions Graph Working](images/stepfn%20process%20grapgh.png "Step Functions - After Execution")
 
 ## Step Function Output
-![Step Function Output](images/stepfn%20output.png)
+![Step Function Output](images/stepfn%20output.png,"Step Function Output")
 ## License
 [License](LICENSE.txt)
