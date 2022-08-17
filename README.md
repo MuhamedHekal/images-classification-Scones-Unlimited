@@ -43,9 +43,9 @@ as a JSON Object.
 ![Execution Event History of ML Workflow](images/execution.png "Execution Event History")
 
 ## Step Functions Graph
-![Step Functions Graph](images/stepfunctions_graph.png "Step Functions") ![Step Functions Graph Working](images/stepfn process grapgh.png "Step Functions - After Execution")
+![Step Functions Graph](images/stepfunctions_graph.png "Step Functions") ![Step Functions Graph Working](images/stepfn%20process%20grapgh.png "Step Functions - After Execution")
 
 ## Step Function Output
-![Step Function Output](images/stepfn output.png)
+![Step Function Output](images/stepfn%20output.png)
 ## License
 [License](LICENSE.txt)
